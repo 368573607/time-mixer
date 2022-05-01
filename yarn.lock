@@ -9373,6 +9373,11 @@ vue-cli-plugin-electron-builder@^2.1.1:
     webpack-merge "^4.2.2"
     yargs "^15.3.1"
 
+vue-ellipse-progress@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.npmmirror.com/vue-ellipse-progress/-/vue-ellipse-progress-2.1.1.tgz#1d35d1ae0a822b89b2c1c3807fc9caba23b6f4b4"
+  integrity sha512-pYLzKbhRJ9+htcMnuF6WyJkNAC2b8g+wy8npYJbwkYSatICft3ezvlinx7G0lBn7+iPBkRbihY6F9Hc+Mbp21Q==
+
 vue-eslint-parser@^8.0.1:
   version "8.3.0"
   resolved "https://registry.npmmirror.com/vue-eslint-parser/-/vue-eslint-parser-8.3.0.tgz#5d31129a1b3dd89c0069ca0a1c88f970c360bd0d"
