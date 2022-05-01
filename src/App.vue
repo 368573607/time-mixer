@@ -44,4 +44,8 @@ body {
 .todos-list {
   grid-column: 1/3;
 }
+
+.number {
+  width: 50px;
+}
 </style>
